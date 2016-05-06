@@ -1,0 +1,57 @@
+/**
+ * Place your custom styles here.
+ */
+body {
+
+}
+.main-container .container {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+@media (min-width: 1200px) {
+.content-container, .tertiary, .quaternary, .quinary {
+    width: 1170px;
+	}
+}
+@media (min-width: 992px) {
+.content-container, .tertiary, .quaternary, .quinary{
+    width: 970px;
+    }
+}
+@media (min-width: 768px) {
+.content-container, .tertiary, .quaternary, .quinary {
+    width: 750px;
+	}
+}
+.content-container, .tertiary, .quaternary, .quinary {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.navbar {
+    background-color: black;
+}
+
+.tertiary-container {
+    background-color: #142736;
+    min-height: 450px;
+    color: white;
+}
+.quaternary-container {
+    background-color: #3f5c91;
+    background-color: #4e4e4e;
+    padding: 10px 0 12px 0;
+    min-height: 450px;
+    color: white;
+}
+.quinary-container {
+    background-color: #50667F;
+    min-height: 450px;
+    color: white;
+
+}
+footer.footer.container {
+     background-color: #000000;
+}
