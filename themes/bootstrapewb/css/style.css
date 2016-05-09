@@ -5,8 +5,7 @@ body {
 
 }
 .main-container .container {
-    background-color: #000000;
-    border-color: #000000;
+
 }
 
 @media (min-width: 1200px) {
@@ -35,21 +34,21 @@ body {
 }
 
 .tertiary-container {
-    background-color: #142736;
+/*    background-color: #142736;
     min-height: 450px;
-    color: white;
+    color: white;*/
 }
 .quaternary-container {
-    background-color: #3f5c91;
+/*    background-color: #3f5c91;
     background-color: #4e4e4e;
     padding: 10px 0 12px 0;
     min-height: 450px;
-    color: white;
+    color: white;*/
 }
 .quinary-container {
-    background-color: #50667F;
+/*    background-color: #50667F;
     min-height: 450px;
-    color: white;
+    color: white;*/
 
 }
 footer.footer.container {
