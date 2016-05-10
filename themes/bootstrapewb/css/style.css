@@ -41,6 +41,10 @@
     background-color: #142736;
     min-height: 450px;
     color: white;
+    font-family: "ProximaNovaLtRegular",sans-serif;
+    letter-spacing: -0.02em;
+    font-size: 25px;
+    line-height: 1.3em;
 }
 .quaternary-container {
 /*  background-color: #3f5c91;
