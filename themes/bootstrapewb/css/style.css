@@ -30,6 +30,8 @@
 .content-container, .tertiary, .quaternary, .quinary {
     padding-right: 15px;
     padding-left: 15px;
+    padding-top:45px;
+    padding-bottom:44px;
     margin-right: auto;
     margin-left: auto;
 }
