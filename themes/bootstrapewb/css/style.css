@@ -8,7 +8,8 @@
     font-weight: 300;
     line-height: 150%;
 }
-.main-container .container {
+.front .content-container {
+    display: none;
 
 }
 
