@@ -13,9 +13,9 @@
     margin-top: 50px;
 }
 /*ewb hack to hide frontpage container
-*/.path-frontpage .content-container {
+*//*.path-frontpage .content-container {
     display: none;
-}
+}*/
 
 @media (min-width: 1200px) {
 .content-container, .tertiary, .quaternary, .quinary {
