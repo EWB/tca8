@@ -11,8 +11,12 @@
 /*
 Frontpage Only*/
 section#block-tagline {
-    font-family: "Source Sans Pro Light","Source Sans Pro";
-    font-size: 45px;
+    color: #4d575a;
+    font-family: "helvetica neue","arial",sans-serif;
+    font-weight: 300;
+    letter-spacing: -0.04em;
+    margin: 40px 0 10px;
+    line-height: 1.2em;
 }
 /*ewb hack to avoid white space on frontpage
 */body.navbar-is-fixed-top {
