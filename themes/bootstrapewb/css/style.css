@@ -76,8 +76,7 @@ footer.footer.container {
     margin-top: 0;
 }
 section#block-tagline {
-    display: inline-block;
-    vertical-align: middle;
+    padding-top:72px;
 }
 .vertical-center-50 {
   min-height: 50%;  /* Fallback for browsers do NOT support vh unit */
