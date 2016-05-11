@@ -74,7 +74,7 @@ footer.footer.container {
 }
 /*
 Frontpage Only*/
-#block-tagline {
+section#block-tagline {
     font-family: "Source Sans Pro Light","Source Sans Pro";
     font-size: 45px;
 }
