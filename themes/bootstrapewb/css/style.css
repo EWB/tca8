@@ -8,6 +8,12 @@
     font-weight: 300;
     line-height: 150%;
 }
+/*
+Frontpage Only*/
+section#block-tagline {
+    font-family: "Source Sans Pro Light","Source Sans Pro";
+    font-size: 45px;
+}
 /*ewb hack to avoid white space on frontpage
 */body.navbar-is-fixed-top {
     margin-top: 50px;
@@ -71,10 +77,4 @@ footer.footer.container {
     background-color: #000000;
     width: 100%;
     margin-top: 0;
-}
-/*
-Frontpage Only*/
-section#block-tagline {
-    font-family: "Source Sans Pro Light","Source Sans Pro";
-    font-size: 45px;
 }
