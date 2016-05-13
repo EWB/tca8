@@ -46,9 +46,7 @@ Frontpage Only*/
 .navbar {
     background-color: black;
 }
-.path-frontpage.main-container.container {
-    background-color: rgb(196, 181, 190);
-}
+
 
 .tertiary-container {
     background-color: #142736;
@@ -60,11 +58,12 @@ Frontpage Only*/
     line-height: 1.3em;
 }
 .quaternary-container {
-/*  background-color: #3f5c91;
+    background-color: #3f5c91;
     background-color: #4e4e4e;
+    background-color: #ffffff;
     padding: 10px 0 12px 0;
     min-height: 450px;
-    color: white;*/
+    color: white;
 }
 .quinary-container {
     background-color: #50667F;
