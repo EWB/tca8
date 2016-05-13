@@ -46,7 +46,7 @@ Frontpage Only*/
 .navbar {
     background-color: black;
 }
-path-frontpage.main-container .container {
+.path-frontpage.main-container.container {
     background-color: rgb(196, 181, 190);
 }
 
